@@ -1,0 +1,72 @@
+
+[{
+    "id": 1,
+    "nombre": "Playera blanca",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 299.00",
+    "imagen": "./assets/images/blusa_relieve.png"
+},
+{
+    "id": 2,
+    "nombre": "Playera negra",
+    "descripcion": "Playera 80% de algodon reciclado",
+    "precio": "$ 399.00",
+    "imagen": "./assets/images/blusa_blanca.png"
+},
+{
+    "id": 3,
+    "nombre": "Blusa",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 629.00",
+    "imagen": "./assets/images/playera _estampada.png"
+},
+{
+    "id": 4,
+    "nombre": "Short",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 329.00",
+    "imagen": "./assets/images/blusa_blanca.png"
+},
+{
+    "id": 5,
+    "nombre": "Pantalon",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 499.00",
+    "imagen": "./assets/images/blusa_relieve.png"
+},
+{
+    "id": 6,
+    "nombre": "Sudadera",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 549.00",
+    "imagen": "./assets/images/playera _estampada.png"
+},
+{
+    "id": 7,
+    "nombre": "Chamarra",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 699.00",
+    "imagen": "./assets/images/blusa_relieve.png"
+},
+{
+    "id": 8,
+    "nombre": "Pantalon Mezclilla",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 449.00",
+    "imagen": "./assets/images/blusa_blanca.png"
+},
+{
+    "id": 9,
+    "nombre": "Palazzo",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 249.00",
+    "imagen": "./assets/images/playera _estampada.png"
+},
+{
+    "id": 10,
+    "nombre": "Camisa Vestir",
+    "descripcion": "Playera 50% de algodon reciclado",
+    "precio": "$ 349.00",
+    "imagen": "./assets/images/blusa_blanca.png"
+}
+]
