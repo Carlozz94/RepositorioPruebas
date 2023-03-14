@@ -11,5 +11,28 @@ function mostrar(mensaje){
 
 function guardarDatosCarrito(id){
     //manipulacion del DOM
-    document.getElementById("confirmacion").innerHTML = "Datos Guardados Correctament :D "+id; 
-}
+    document.getElementById("confirmacion").innerHTML = "Elemento Guardado Correctament: "+id; 
+    
+    /*
+    function addToCartClicked(event) {
+
+        const button = event.target;
+        const item = button.parentNode.parentNode; // Obtén el elemento padre del botón
+        const itemTitle = item.querySelector('p').textContent;
+        const itemPrice = item.querySelector('#CardPrice').textContent;
+        const itemImage = item.querySelector('img').src;
+       
+    
+      
+        itemsToCart.addProductToCart(itemTitle, itemPrice, itemImage, sizeItem);
+        itemsToCart.updateCartItems();
+      
+      */
+        /* addItemToCart(itemTitle, itemPrice, itemImage); */
+        /*const button = event.target;
+        const item = button.parentNode.parentNode; // Obtén el elemento padre del botón
+        const itemTitle = item.querySelector('p').textContent;
+        document.getElementById("confirmacion").innerHTML = "Datos Guardados Correctament :D "+id; 
+        */
+    }
+    
