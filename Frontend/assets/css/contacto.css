@@ -1,0 +1,28 @@
+.header {
+    color: #000000;
+    font-size: 2em;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    float: left;
+    color: #36A0FF;
+}
+
+.texto-contacto {
+    font-family: 'Itim', cursive;
+    text-align: left;
+}
+
+.alinear-izquierda{
+    align-items: end;
+    width: 100%;
+    height: auto;
+    }
+
+.container-img{
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto;
+}
